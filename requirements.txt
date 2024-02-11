@@ -3,3 +3,4 @@ opencv_python==4.7.0.68
 Pillow==9.3.0
 streamlit==1.29.0
 transformers==4.37.1
+tensorflow==2.11.0
